@@ -24,4 +24,4 @@
 5. ***git diff*** - Просмотр изменений до коммита.
 6. ***git checkout*** - Переключение между версиями.
 7. ***git add "text"*** - Добавление отдельных файлов в контроль версий.
-8. ***git commit -am "text"*** - 2комманды (git commit -m + gitadd)/
+8. ***git commit -am "text"*** - 2комманды (git commit -m + gitadd)//
